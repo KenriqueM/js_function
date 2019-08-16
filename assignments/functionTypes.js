@@ -13,7 +13,7 @@
  */
 
 //Function Decleration
-function convertToString(n) {
+function convertToNumber(x) {
   return String(n);
 }
 
